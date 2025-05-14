@@ -1,4 +1,4 @@
-# Traveler Social Backend
+# Porjotok  BackEnd + FrontEnd
 
 A NestJS backend for a travel-focused social media platform with comprehensive features for travelers to connect, share experiences, and interact.
 
